@@ -1,2 +1,2 @@
-# study-JavaDesignMode
-learn java design patterns by myself
+#study-JavaDesignPattern
+自己学习java设计模式
